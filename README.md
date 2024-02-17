@@ -12,11 +12,12 @@
 - Video Editing
 - Graphic Design
 - HTML/CSS
-- JavaScript
+- JavaScript / TypeScript
 - Other skills
 
 📚 **Learning**:
-- Currently mastering web development with a focus on [specific technology or framework].
+- Currently mastering web development with a focus on  honing my skills as a web developer, exploring the latest technologies, and delving into the world of AI and metadata.
+- I have pursued education till the intermediate level and continue to expand my knowledge through self-learning and hands-on experience.
 
 🎯 **Goals**:
 - To create captivating videos and graphics.
